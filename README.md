@@ -17,9 +17,9 @@ A simple **Ethereum-based Lottery DApp** built with **Solidity**, where particip
 
 ## 💡 Project Highlights
 
-✅ Participants can join the lottery by paying a **fixed amount (10 wei)**.
-✅ Only the **manager** can view the contract balance or pick the winner.
-✅ **Winner selection** is done using a pseudo-random hash (`keccak256`) with on-chain parameters.
+✅ Participants can join the lottery by paying a **fixed amount (10 wei)**.</br>
+✅ Only the **manager** can view the contract balance or pick the winner.</br>
+✅ **Winner selection** is done using a pseudo-random hash (`keccak256`) with on-chain parameters.</br>
 ✅ The **entire contract balance** is transferred to the winner, and the lottery resets for the next round.
 
 ---
